@@ -1,4 +1,4 @@
-console.log("hola!
+console.log("hola!")
 console.log("buen dia!")
 console.log("pon algo aqui")
 console.log("luego escribe")
